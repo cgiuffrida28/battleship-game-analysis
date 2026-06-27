@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pass Message to Activity</string>
+    <string name="switch_orientation">Switch To Horizontal</string>
+    <string name="switch_orientation2">Switch To Vertical</string>
+    <string name="battleship">BATTLESHIP</string>
+    <string name="new_game">New Game</string>
+    <string name="created_by">Created By:</string>
+    <string name="douglas_mcdonald">Douglas McDonald</string>
+    <string name="andrew_caskey">Andrew Caskey</string>
+</resources>
