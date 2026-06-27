@@ -112,7 +112,6 @@ Core dependencies:
 
 - `pandas`
 - `matplotlib`
-- `jupyter`
 
 ---
 
