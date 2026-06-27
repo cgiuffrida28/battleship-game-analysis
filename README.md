@@ -118,4 +118,4 @@ Core dependencies:
 
 ## Author
 
-**Cole Giuffrida** — CST-338 Portfolio Extension
+**Cole Giuffrida** — Summer 2026 Portfolio Project
