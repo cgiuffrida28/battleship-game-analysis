@@ -23,7 +23,7 @@ The notebook loads the Phase 5 CSV, computes summary statistics, and produces ch
 ```
 battleship-game-analysis/
 │
-├── Battleship Android/                              # Java source files for each AI strategy
+├── Battleship Java/                                 # Java source files for each AI strategy
 │
 ├── battleship_algorithm_analysis.ipynb              # Analysis notebook
 │
